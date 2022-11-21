@@ -1,8 +1,5 @@
 # AKFruitData: A dual software application for Azure Kinect cameras to acquire and extract informative data in yield tests performed in fruit orchard environments
 
-Permanent link to code/repository used for this code
-version: [https://github.com/ElsevierSoftwareX/SOFTX_SOFTX-D-22-00152](https://github.com/ElsevierSoftwareX/SOFTX_SOFTX-D-22-00152)
-
 ## Abstract
 
 The emergence of low-cost 3D sensors, and particularly RGB-D cameras, together with recent advances in artificial
@@ -20,10 +17,9 @@ researchers working in fruit growing.
 
 ## Contents
 
-This repository contents source code of two applications presented in the
-work [https://doi.org/10.1016/j.softx.2022.101231](https://doi.org/10.1016/j.softx.2022.101231) at the time of
-publication in [SoftwareX Journal](https://www.journals.elsevier.com/softwarex). Original repositories and current
-development are located at:
+This repository contents source code of two applications presented in the work [https://doi.org/10.1016/j.softx.2022.101231](https://doi.org/10.1016/j.softx.2022.101231) at the time of publication in [SoftwareX Journal](https://www.journals.elsevier.com/softwarex).
+
+Original repositories and current development are located at:
 
 * AK_ACQS Azure Kinect Acquisition
   System [https://github.com/GRAP-UdL-AT/ak_acquisition_system](https://github.com/GRAP-UdL-AT/ak_acquisition_system)
