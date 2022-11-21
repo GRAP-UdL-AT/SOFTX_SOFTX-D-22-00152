@@ -17,14 +17,15 @@ researchers working in fruit growing.
 
 ## Contents
 
-This repository contents source code of two applications presented in the work [https://doi.org/10.1016/j.softx.2022.101231](https://doi.org/10.1016/j.softx.2022.101231) at the time of publication in [SoftwareX Journal](https://www.journals.elsevier.com/softwarex).
+This repository contents source code of two applications presented in the article [https://doi.org/10.1016/j.softx.2022.101231](https://doi.org/10.1016/j.softx.2022.101231) at the time of its publication in [SoftwareX Journal](https://www.journals.elsevier.com/softwarex).
 
 Original repositories and current development are located at:
 
-* AK_ACQS Azure Kinect Acquisition
-  System [https://github.com/GRAP-UdL-AT/ak_acquisition_system](https://github.com/GRAP-UdL-AT/ak_acquisition_system)
-* AK_FRAEX - Azure Kinect Frame
-  Extractor [https://github.com/GRAP-UdL-AT/ak_frame_extractor](https://github.com/GRAP-UdL-AT/ak_frame_extractor)
+| Package                   | Url            |
+|---------------------------|-------------------------|
+| AK_ACQS Azure Kinect Acquisition System [https://github.com/GRAP-UdL-AT/ak_acquisition_system](https://github.com/GRAP-UdL-AT/ak_acquisition_system) | AK_ACQS is a software solution for data acquisition in fruit orchards using a sensor system boarded on a terrestrial vehicle. It allows the coordination of computers and sensors through the sending of remote commands via a GUI. At the same time, it adds an abstraction layer on library stack of each sensor, facilitating its integration. This software solution is supported by a local area network (LAN), which connects computers and sensors from different manufacturers ( cameras of different technologies, GNSS receiver) for in-field fruit yield testing. https://github.com/GRAP-UdL-AT/ak_acquisition_system |
+| AK_FRAEX - Azure Kinect Frame Extractor [https://github.com/GRAP-UdL-AT/ak_frame_extractor](https://github.com/GRAP-UdL-AT/ak_frame_extractor) | Python-based GUI tool to extract frames from video files produced with Azure Kinect cameras. Visit the project site at https://pypi.org/project/ak-frame-extractor/ |
+
 
 ## Authorship
 
